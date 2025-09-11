@@ -50,7 +50,10 @@ public class Favoritos extends Fragment {
 
             NavHostFragment.findNavController(Favoritos.this).navigate(action);
 
+
         });
+
+
         return view;
     }
 }
