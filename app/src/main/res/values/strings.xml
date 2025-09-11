@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">android_nav_paso_a_paso</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="music">Música</string>
+    <string name="btn_cal">Calcular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
