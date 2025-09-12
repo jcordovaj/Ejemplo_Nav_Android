@@ -14,14 +14,9 @@ public class Musica extends Fragment {
 
     private TextView text_1;
 
-
-
     public Musica() {
         // Required empty public constructor
     }
-
-
-
 
     @Override
     public void onCreate(Bundle savedInstanceState) {

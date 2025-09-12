@@ -17,13 +17,10 @@ public class Favoritos extends Fragment {
     private EditText text_1, text_2;
     private Button btn;
 
-
-
     public Favoritos() {
         // Required empty public constructor
     }
-
-
+    
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
