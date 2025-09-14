@@ -8,17 +8,6 @@
     android:background="@drawable/perasconmanzanas"
     tools:context=".MainActivity">
 
-    <!--TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:gravity="center_vertical"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.191" /-->
-
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/nav_fragment_host"
         android:layout_width="match_parent"

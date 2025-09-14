@@ -11,7 +11,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 
-
 public class Favoritos extends Fragment {
 
     private EditText text_1, text_2;
@@ -20,7 +19,7 @@ public class Favoritos extends Fragment {
     public Favoritos() {
         // Required empty public constructor
     }
-    
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,9 +46,7 @@ public class Favoritos extends Fragment {
 
             NavHostFragment.findNavController(Favoritos.this).navigate(action);
 
-
         });
-
 
         return view;
     }
